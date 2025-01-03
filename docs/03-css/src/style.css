@@ -1,4 +1,4 @@
-/* 
+
 body {
 	font-family: helvetica, arial, sans-serif;
 }
@@ -7,7 +7,7 @@ h1 {
 	color: #3a241d;
 	text-align: center;
 }
-
+/*
 #left-container {
 	left: 0px;
 }
@@ -101,4 +101,5 @@ h1 {
 	position: absolute;
 	bottom: 45%;
 	left: 5%;
-} */
+} 
+*/
